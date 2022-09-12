@@ -4,15 +4,15 @@
     "text": "Cursos em várias partes do Brasil"
   },
   "installments": {
-    "show": true,
+    "show": false,
     "text": ""
   },
   "exchange": {
-    "show": true,
+    "show": false,
     "text": "Não gostou? A primeira troca é gratuita"
   },
   "promo": {
-    "show": true,
+    "show": false,
     "text": "Diferentes promoções ao longo do ano!"
   }
 }
