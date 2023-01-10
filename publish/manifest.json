@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.0b35f326830dbe3db9e0126902774bd3.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_384x384.f1a8fdbb4769d48278dabebb38f31e27.jpeg",
+      "sizes": "384x384",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_192x192.471ea6b66e44a84cdb6c15309b948dca.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_128x128.cb3deecea92afbeb708a89a70bcce175.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_96x96.f9256c6867964129d356747a6cc15dc2.jpeg",
+      "sizes": "96x96",
+      "type": "image/jpeg"
+    }
+  ],
+  "name": "Cursos PROARMAS",
+  "short_name": "cursosproarmas",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "cursosproarmas",
+  "background_color": "#103218",
+  "theme_color": "#000000"
+}
